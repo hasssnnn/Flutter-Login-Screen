@@ -1,4 +1,2 @@
-*.c++ linguist-detectable=false
-*.cpp linguist-detectable=false
-*.dart linguist-detectable=true
-*.Dart linguist-detectable=true
+*.* linguist-language=Dart
+
